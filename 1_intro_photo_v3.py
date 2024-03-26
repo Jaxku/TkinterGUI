@@ -1,7 +1,7 @@
 
 from tkinter import*
 root = Tk()
-root.title()
+root.title('ANDRE!')
 
 # Creating a reference to the image
 cool_image = PhotoImage(file="ANDRE!.gif")
